@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del modulo 2 del Prep course de Henry
+Prueba de como crear un repositorio y guardarlo desde hithub a mi pc
