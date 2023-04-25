@@ -1,1 +1,1 @@
-Prueba de como crear un repositorio y guardarlo desde hithub a mi pc
+tanto va el cantaro hacia la fuente que se termina rompiendo.
